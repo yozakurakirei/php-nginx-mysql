@@ -1,5 +1,5 @@
 <?php
-const HOSTNAME = '?';
+const HOSTNAME = 'mysql';
 const DATABASE = '?';
 const USERNAME = '?';
 const PASSWORD = '?';
